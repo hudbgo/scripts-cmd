@@ -1,0 +1,3 @@
+@echo off
+echo Presiona una tecla para continuar...
+pause > nul
